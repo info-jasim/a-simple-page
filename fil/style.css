@@ -1,0 +1,131 @@
+body{
+    font: normal"EB Garamond", serif;
+    background: #f2f4f4;
+    
+}
+
+nav{
+    position: sticky;
+}
+header{ 
+    width: 80%;
+    height: 180px;;
+    margin: 0 auto;
+}    
+
+#photo-com{ 
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    float: left;
+    left: 0;
+}
+#cvl{
+    clear: both;
+}
+header #hd-tx {
+    text-align: center;
+    float: left;
+    margin: 20px;
+    text-transform: capitalize;
+    
+}
+#ac12{
+    clear: both;
+}
+#manu-nav ul li{
+    float: left;
+    list-style-type: none;
+    
+}
+#manu-nav ul li a{
+    padding: 15px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #28b463;
+}
+main{
+    margin: 0;
+    padding: 0;
+}
+#art-1{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 98%;
+    height: auto;
+}
+#art-1 h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+#pic-about{
+    width: 375px;
+    height: auto;
+    float: left;
+    padding: 10px;
+    box-shadow: 3px 5px 5px 3px #eee;
+}
+#art-1 art-a {
+    text-align: justify;
+    float: left;
+    margin: 10px;
+}
+#misson{
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+}
+#pic-misson{
+    width: 275px;
+    height: auto;
+    float: left;
+    padding: 10px;
+    margin: 15px;
+}
+#misson pre{
+    width: 100%;
+    margin: 25px;
+    padding: 25px;
+}
+#misson h2{
+    text-align: center
+}
+#why img{
+  width: 100%;  
+    height: auto;
+}
+#ad{
+    width: 100%;
+    height: auto;
+}
+#ad img{
+   padding: 5px;
+    float: left;
+    height: 25%;
+    width: 18%;
+    padding: 5px;
+}
+#srvc{
+    width: 100%;
+    height: auto;
+}
+#srvc img{
+    float: left;
+    height: auto;
+    width: 23%;
+    padding: 5px;
+}
+#nom{
+    width: 100%;
+    height: 50px;
+    background: #000;
+}
+#nom p{
+    color: aliceblue;
+    text-align: center;
+    margin: 15px;
+    text-transform: capitalize;
+}
+
+
